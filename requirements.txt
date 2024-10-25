@@ -1,7 +1,7 @@
 gower==0.1.2
 kmodes==0.12.2
 matplotlib==3.8.4
-numpy==2.1.2
+numpy>=1.19
 pandas==2.2.3
 plotly==5.22.0
 scikit_learn==1.4.2
